@@ -1,0 +1,33 @@
+1, Szczoteczka do zębów,590123
+2, Żel pod prysznic,501234
+3, Kawa ziarnista,400123
+4, Ręcznik plażowy,602345
+5, Damska bluza,703456
+6, Ołówek automatyczny,809123
+7, Słoik dżemu,204567
+8, Ładowarka do telefonu,301234
+9, Mata do jogi,405678
+10, Płyn do naczyń,507890
+11, Książka kucharska,609123
+12, Zestaw garnków,701234
+13, Pendrive USB,803456
+14, Sztućce stołowe,904567
+15, Żarówka LED,100123
+16, Okulary przeciwsłoneczne,200234
+17, Piłka do koszykówki,300345
+18, Odkurzacz bezworkowy,401234
+19, Głośnik Bluetooth,503456
+20, Blu-ray film,605678
+21, Garnitur męski,707890
+22, Lampka biurkowa,809123
+23, Kubek termiczny,900123
+24, Zegarek męski,200234
+25, Komplet pościeli,300345
+26, Torba sportowa,401234
+27, Poduszka dekoracyjna,503456
+28, Klocki LEGO,605678
+29, Kamera sportowa,707890
+30, Termos na kawę,809123
+31,zupa,342
+32,zupka,432
+33,zupeczka,432
