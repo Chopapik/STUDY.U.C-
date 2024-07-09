@@ -1,0 +1,15 @@
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfo.cs
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.sourcelink.json
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\bin\Debug\net8.0\Warehouse.exe
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\bin\Debug\net8.0\Warehouse.deps.json
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\bin\Debug\net8.0\Warehouse.runtimeconfig.json
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\bin\Debug\net8.0\Warehouse.dll
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\bin\Debug\net8.0\Warehouse.pdb
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.dll
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\refint\Warehouse.dll
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.pdb
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\Warehouse.genruntimeconfig.cache
+C:\Users\krzys\Desktop\Pojekten\c#\Warehouse\obj\Debug\net8.0\ref\Warehouse.dll

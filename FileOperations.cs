@@ -15,7 +15,7 @@ namespace Warehouse
             {
                 foreach (var product in warehouse.Products)
                 {
-                    sw.WriteLine($"{product.Id},{product.Name},{product.EanCode}");
+                    sw.WriteLine($"{product.Id},{product.Name},{product.EanCode},{product.ProductionDate},{product.UnitCost}");
                 }
             }
         }
@@ -31,9 +31,11 @@ namespace Warehouse
 
                     int id = int.Parse(data[0]);
                     string name = data[1];
-                    int eanCode = int.Parse(data[2]);
+                    double eanCode = double.Parse(data[2]);
+                    DateTime productionDate = DateTime.Parse(data[3]);
+                    double unitCost = double.Parse(data[4]);
 
-                    warehouse.Products.Add(new TProduct(id, name, eanCode));
+                    warehouse.Products.Add(new TProduct(id, name, eanCode,productionDate,unitCost));
                 }
             }
         }

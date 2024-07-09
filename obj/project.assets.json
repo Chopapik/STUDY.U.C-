@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krzys\\Desktop\\Pojekten\\c#\\Warehouse\\pIII.csproj",
-      "projectName": "pIII",
-      "projectPath": "C:\\Users\\krzys\\Desktop\\Pojekten\\c#\\Warehouse\\pIII.csproj",
+      "projectUniqueName": "C:\\Users\\krzys\\Desktop\\Pojekten\\c#\\Warehouse\\Warehouse.csproj",
+      "projectName": "Warehouse",
+      "projectPath": "C:\\Users\\krzys\\Desktop\\Pojekten\\c#\\Warehouse\\Warehouse.csproj",
       "packagesPath": "C:\\Users\\krzys\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\krzys\\Desktop\\Pojekten\\c#\\Warehouse\\obj\\",
       "projectStyle": "PackageReference",

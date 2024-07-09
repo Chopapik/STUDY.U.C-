@@ -1,33 +1,30 @@
-1, Szczoteczka do zębów,590123
-2, Żel pod prysznic,501234
-3, Kawa ziarnista,400123
-4, Ręcznik plażowy,602345
-5, Damska bluza,703456
-6, Ołówek automatyczny,809123
-7, Słoik dżemu,204567
-8, Ładowarka do telefonu,301234
-9, Mata do jogi,405678
-10, Płyn do naczyń,507890
-11, Książka kucharska,609123
-12, Zestaw garnków,701234
-13, Pendrive USB,803456
-14, Sztućce stołowe,904567
-15, Żarówka LED,100123
-16, Okulary przeciwsłoneczne,200234
-17, Piłka do koszykówki,300345
-18, Odkurzacz bezworkowy,401234
-19, Głośnik Bluetooth,503456
-20, Blu-ray film,605678
-21, Garnitur męski,707890
-22, Lampka biurkowa,809123
-23, Kubek termiczny,900123
-24, Zegarek męski,200234
-25, Komplet pościeli,300345
-26, Torba sportowa,401234
-27, Poduszka dekoracyjna,503456
-28, Klocki LEGO,605678
-29, Kamera sportowa,707890
-30, Termos na kawę,809123
-31,zupa,342
-32,zupka,432
-33,zupeczka,432
+1, Szczoteczka do zębów, 5901234567890, 2024-01-01, 1050
+2, Żel pod prysznic, 5012345678901, 2024-01-02, 1299
+3, Kawa ziarnista, 4001234567893, 2024-01-03, 3500
+4, Ręcznik plażowy, 6023456789014, 2024-01-04, 4550
+5, Damska bluza, 7034567890123, 2024-01-05, 7599
+6, Ołówek automatyczny, 8091234567896, 2024-01-06, 550
+7, Słoik dżemu, 2045678901237, 2024-01-07, 830
+8, Ładowarka do telefonu, 3012345678905, 2024-01-08, 2210
+9, Mata do jogi, 4056789012346, 2024-01-09, 3375
+10, Płyn do naczyń, 5078901234567, 2024-01-10, 620
+11, Książka kucharska, 6091234567898, 2024-01-11, 5000
+12, Zestaw garnków, 7012345678900, 2024-01-12, 15000
+13, Pendrive USB, 8034567890123, 2024-01-13, 2050
+14, Sztućce stołowe, 9045678901234, 2024-01-14, 8530
+15, Żarówka LED, 1001234567897, 2024-01-15, 1200
+16, Okulary przeciwsłoneczne, 2002345678909, 2024-01-16, 9599
+17, Piłka do koszykówki, 3003456789012, 2024-01-17, 4000
+18, Odkurzacz bezworkowy, 4012345678904, 2024-01-18, 30000
+19, Głośnik Bluetooth, 5034567890127, 2024-01-19, 7550
+20, Blu-ray film, 6056789012340, 2024-01-20, 2500
+21, Garnitur męski, 7078901234563, 2024-01-21, 45000
+22, Lampka biurkowa, 8091234567896, 2024-01-22, 3020
+23, Kubek termiczny, 9001234567899, 2024-01-23, 1550
+24, Zegarek męski, 2002345678901, 2024-01-24, 25000
+25, Komplet pościeli, 3003456789014, 2024-01-25, 6000
+26, Torba sportowa, 4012345678907, 2024-01-26, 4500
+27, Poduszka dekoracyjna, 5034567890120, 2024-01-27, 3500
+28, Klocki LEGO, 6056789012343, 2024-01-28, 12000
+29, Kamera sportowa, 7078901234566, 2024-01-29, 30000
+30, Termos na kawę, 8091234567899, 2024-01-30, 2000

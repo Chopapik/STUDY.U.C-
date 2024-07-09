@@ -13,8 +13,9 @@ namespace Warehouse
             {
                 Console.WriteLine("\n\n1. Dodaj produkt");
                 Console.WriteLine("2. Usuń produkt");
-                 Console.WriteLine("3. Wyświetl listę produktów");
-                 Console.WriteLine("4. Wyjście\n\n");
+                Console.WriteLine("3. Wyświetl listę produktów");
+                Console.WriteLine("4. Znajdz przedmiot po ID");
+                Console.WriteLine("5. Wyjście\n\n");
                 int choice = Convert.ToInt32(Console.ReadLine());
 
                 switch (choice)
@@ -28,7 +29,7 @@ namespace Warehouse
                     case 3:
                         warehouse.ShowProducts();
                     break;
-                    case 4:
+                    case 5:
                         a = false;
                         break;
                     default:
